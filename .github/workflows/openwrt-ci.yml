@@ -10,8 +10,8 @@
 name: OpenWrt-CI
 
 on: 
-  release:
-    types: [published]
+  #release:
+  #  types: [published]
 
   #push:
   #  branches: 
